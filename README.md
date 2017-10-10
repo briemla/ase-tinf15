@@ -16,3 +16,16 @@
 1. Mirko Dostmann
 
 ## Inhalt
+### B2
+#### 10.10.17 - Briem
+* Unit Testing
+  * Arten von Tests
+  * xUnit Framework
+  * Assertions
+  * Ergebnis eines Tests
+  * Eigenschaften guter Tests - A-TRIP
+    * Automatic
+    * Thorough
+    * Repeatable
+    * Independent
+    * Professional
