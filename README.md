@@ -29,3 +29,17 @@
     * Repeatable
     * Independent
     * Professional
+  * Matcher
+### B2
+#### 17.10.17 - Briem
+* Unit Testing
+  * Mock Objekte
+  * Code Coverage
+  * Test First / TDD
+  * Legacy Systeme vs. grüne Wiese
+
+* Refactoring
+  * Bedeuting von Refactoring
+  * Warum ist Refactoring wichtig
+  * Wann und warum ist Refactoring wichtig
+  * Wann wird Refactoring schwierig
