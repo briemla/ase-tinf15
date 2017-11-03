@@ -24,3 +24,50 @@
     * vergessene Listener
   * Beispiele zu zeitkontinuierlich
   * Vertiefung: Drag And Drop
+  
+#### 24.10.17 - Müller
+* UX / UI
+  * Definitionen
+    * ISO 9241
+    * Usability
+    * UX
+  * Psychologie / Biologie
+    * Millersches Gesetz
+    * Paradox Of Choice / Hick-Hyman
+    * Gestaltgesetze
+    * Rationales Denken
+    * Autoritäten
+    * Halo Effekt
+  * Ansätze
+    * Responsive Design
+    * Mobile First / Context First
+    * Customer Journey
+    * Barrierefreiheit
+  * Benutzer
+    * Fokusgruppen
+    * Fragebögen
+    * Nutzungkontextanalyse
+      * Vor-Ort-Beobachtung
+      * Tagebuchstudie
+      * Contextual Inquery
+    * Card Sorting
+    * Personas
+    * User Stories / Storyboards
+  * UI Prototyping
+    * Scribbles
+    * Wireframes
+    * Paper Prototyping
+  * Patterns
+    * Registrierung
+      * Generell
+      * Lazy Sign Up
+      * Anmelde Formular
+      * Datenschutz
+    * Formulare
+      * Validierung
+      * Pflichtfelder und optionale Felder
+      * Passwort-Feld
+      * Autovervollständigung
+      * Bewertungen und Rezensionen
+      * Gute Defaults
+      
