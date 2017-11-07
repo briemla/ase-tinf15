@@ -71,3 +71,15 @@
       * Bewertungen und Rezensionen
       * Gute Defaults
       
+#### 07.11.17 - Briem
+* Unit Testing
+  * Arten von Tests
+  * xUnit Framework
+  * Assertions
+  * Ergebnis eines Tests
+  * Eigenschaften guter Tests - A-TRIP
+    * Automatic
+    * Thorough
+    * Repeatable
+    * Independent
+    * Professional
