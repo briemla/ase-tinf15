@@ -43,3 +43,14 @@
   * Warum ist Refactoring wichtig
   * Wann und warum ist Refactoring wichtig
   * Wann wird Refactoring schwierig
+
+### B2
+#### 07.11.17 - Müller
+* FRP
+  * Definitionen
+  * Beobachter-Muster
+  * Grundlagen (alle Primitive + Snapshot)
+  * Akkumulator Beispiel
+  * Zeichenprogramm Beispiel
+  * Transaktionen und FRP
+  * Sample und Switch
