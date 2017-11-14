@@ -83,3 +83,17 @@
     * Repeatable
     * Independent
     * Professional
+
+#### 14.11.17 - Briem
+* Unit Testing
+  * Matcher
+  * Mock Objekte
+    * Erweiterungen zu Tests ohne Mocks
+    * Vorgehen mit Mock Objekten
+    * Probleme mit Mock Objekten
+  * Code Coverage
+  * Test First und TDD
+* Refactoring
+  * Was ist Refactoring
+  * Warum ist Refactoring wichtig
+
