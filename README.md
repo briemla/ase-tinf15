@@ -54,3 +54,34 @@
   * Zeichenprogramm Beispiel
   * Transaktionen und FRP
   * Sample und Switch
+
+### B2
+#### 14.11.17 - Müller
+* FRP
+  * Plagen
+    * unvorhersehbare Reihenfolge
+    * verpasste Ereignisse
+    * Zustandschaos
+    * Thread Probleme
+    * Vergessene Listener
+  * zeitkontinuierlich
+    * Zeitsystem
+    * Rasterung
+    * Beispiel Freier Fall
+  * Formale Semantik
+  * Anbindung an externe Systeme
+  * Übungen
+    * Freier Fall
+    * Drag and Drop
+
+* UX/UI
+  * Definition
+    * ISO 9241
+    * Usability
+    * UX
+  * Psychologie und Biologie
+    * Millersches Gesetz
+    * Paradox of Choice
+    * Gestaltgesetze
+    * Autoritäten
+    * Halo Effekt
