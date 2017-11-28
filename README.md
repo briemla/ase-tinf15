@@ -61,3 +61,17 @@
     * Replace Conditional with Polymorphism
     * Replace ErrorCode with Exception
     * Replace Inheritance with Delegation
+
+### B4
+#### 28.11.17 - Briem
+* Unit Testing
+  * Arten von Tests
+  * xUnit Framework
+  * Assertions
+  * Ergebnis eines Tests
+  * Eigenschaften guter Tests - A-TRIP
+    * Automatic
+    * Thorough
+    * Repeatable
+    * Independent
+    * Professional
