@@ -43,3 +43,21 @@
   * Warum ist Refactoring wichtig
   * Wann und warum ist Refactoring wichtig
   * Wann wird Refactoring schwierig
+
+### B2
+#### 20.10.17 - Briem
+* Refactoring
+  * Code Smells
+    * Duplicated Code
+    * Long Method
+    * Large Class
+    * Shotgun Surgery
+    * Switch Statements
+    * Code Comments
+  * Refactorings
+    * Extract Method
+    * Rename Method
+    * Replace Temp with Query
+    * Replace Conditional with Polymorphism
+    * Replace ErrorCode with Exception
+    * Replace Inheritance with Delegation
