@@ -44,7 +44,7 @@
   * Wann und warum ist Refactoring wichtig
   * Wann wird Refactoring schwierig
 
-### B2
+### B4
 #### 07.11.17 - Müller
 * FRP
   * Definitionen
@@ -55,7 +55,7 @@
   * Transaktionen und FRP
   * Sample und Switch
 
-### B2
+### B4
 #### 14.11.17 - Müller
 * FRP
   * Plagen
@@ -85,3 +85,52 @@
     * Gestaltgesetze
     * Autoritäten
     * Halo Effekt
+
+### B4
+#### 21.11.17 - Müller
+* UI/UX
+  * Responsive Design
+  * Mobile/Context First
+  * Customer Journey
+  * Barrierefreiheit
+    * Blind
+    * Rot-Grün Schwäche
+    * einfache Sprache
+    * leichte Sprache
+  * Benutzeranalyse
+    * Fokusgruppen
+    * Fragebogen
+    * Nutzungskontextanalyse
+      * Vor-Ort
+      * Contextual-Inquery
+      * Tagebuch
+      * Card-Sorting
+      * Personas
+      * User Stories und Story Boards
+  * UI
+    * Scribbles
+    * Wireframes
+    * Paper Prototyping
+  * Registrierung
+  * Formulare
+  * Bewertungen
+  * Eingabefluss
+  * Single/Multi Page Wizard
+  * Undo
+  * Erweiterungen
+  * Internationalisierung
+
+
+### B2
+#### 28.11.17 - Müller
+* FRP
+  * Definitionen
+  * Beobachter-Muster
+  * Grundlagen (alle Primitive + Snapshot)
+  * Akkumulator Beispiel
+  * Zeichenprogramm Beispiel
+  * Transaktionen und FRP
+  * Sample und Switch
+  * Plagen
+    * unvorhersehbare Reihenfolge
+    * verpasste Ereignisse
