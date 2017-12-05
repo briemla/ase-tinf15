@@ -75,3 +75,13 @@
     * Repeatable
     * Independent
     * Professional
+#### 05.12.17 - Briem
+* Unit Testing
+  * Matcher
+  * Mock Objekte
+  * Code Coverage
+  * Test First / TDD
+  * Legacy Systeme vs. grüne Wiese
+
+* Refactoring
+  * Bedeuting von Refactoring
