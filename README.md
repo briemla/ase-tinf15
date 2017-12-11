@@ -134,3 +134,24 @@
   * Plagen
     * unvorhersehbare Reihenfolge
     * verpasste Ereignisse
+### B2
+#### 05.12.17 - Müller
+* UI/UX
+  * Responsive Design
+  * Mobile/Context First
+  * Customer Journey
+  * Barrierefreiheit
+    * Blind
+    * Rot-Grün Schwäche
+    * einfache Sprache
+    * leichte Sprache
+  * Benutzeranalyse
+    * Fokusgruppen
+    * Fragebogen
+    * Nutzungskontextanalyse
+      * Vor-Ort
+      * Contextual-Inquery
+      * Tagebuch
+      * Card-Sorting
+      * Personas
+      * User Stories und Story Boards
