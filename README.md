@@ -75,6 +75,8 @@
     * Repeatable
     * Independent
     * Professional
+
+### B4
 #### 05.12.17 - Briem
 * Unit Testing
   * Matcher
@@ -86,6 +88,7 @@
 * Refactoring
   * Bedeuting von Refactoring
 
+### B4
 #### 12.12.17 - Briem
 + Refactoring
   * Warum ist Refactoring wichtig
@@ -105,3 +108,115 @@
     * Replace Conditional with Polymorphism
     * Replace ErrorCode with Exception
     * Replace Inheritance with Delegation
+
+### B4
+#### 07.11.17 - Müller
+* FRP
+  * Definitionen
+  * Beobachter-Muster
+  * Grundlagen (alle Primitive + Snapshot)
+  * Akkumulator Beispiel
+  * Zeichenprogramm Beispiel
+  * Transaktionen und FRP
+  * Sample und Switch
+
+### B4
+#### 14.11.17 - Müller
+* FRP
+  * Plagen
+    * unvorhersehbare Reihenfolge
+    * verpasste Ereignisse
+    * Zustandschaos
+    * Thread Probleme
+    * Vergessene Listener
+  * zeitkontinuierlich
+    * Zeitsystem
+    * Rasterung
+    * Beispiel Freier Fall
+  * Formale Semantik
+  * Anbindung an externe Systeme
+  * Übungen
+    * Freier Fall
+    * Drag and Drop
+
+* UX/UI
+  * Definition
+    * ISO 9241
+    * Usability
+    * UX
+  * Psychologie und Biologie
+    * Millersches Gesetz
+    * Paradox of Choice
+    * Gestaltgesetze
+    * Autoritäten
+    * Halo Effekt
+
+### B4
+#### 21.11.17 - Müller
+* UI/UX
+  * Responsive Design
+  * Mobile/Context First
+  * Customer Journey
+  * Barrierefreiheit
+    * Blind
+    * Rot-Grün Schwäche
+    * einfache Sprache
+    * leichte Sprache
+  * Benutzeranalyse
+    * Fokusgruppen
+    * Fragebogen
+    * Nutzungskontextanalyse
+      * Vor-Ort
+      * Contextual-Inquery
+      * Tagebuch
+      * Card-Sorting
+      * Personas
+      * User Stories und Story Boards
+  * UI
+    * Scribbles
+    * Wireframes
+    * Paper Prototyping
+  * Registrierung
+  * Formulare
+  * Bewertungen
+  * Eingabefluss
+  * Single/Multi Page Wizard
+  * Undo
+  * Erweiterungen
+  * Internationalisierung
+
+### B2
+#### 28.11.17 - Müller
+* FRP
+  * Definitionen
+  * Beobachter-Muster
+  * Grundlagen (alle Primitive + Snapshot)
+  * Akkumulator Beispiel
+  * Zeichenprogramm Beispiel
+  * Transaktionen und FRP
+  * Sample und Switch
+  * Plagen
+    * unvorhersehbare Reihenfolge
+    * verpasste Ereignisse
+
+### B2
+#### 05.12.17 - Müller
+* UI/UX
+  * Responsive Design
+  * Mobile/Context First
+  * Customer Journey
+  * Barrierefreiheit
+    * Blind
+    * Rot-Grün Schwäche
+    * einfache Sprache
+    * leichte Sprache
+  * Benutzeranalyse
+    * Fokusgruppen
+    * Fragebogen
+    * Nutzungskontextanalyse
+      * Vor-Ort
+      * Contextual-Inquery
+      * Tagebuch
+      * Card-Sorting
+      * Personas
+      * User Stories und Story Boards
