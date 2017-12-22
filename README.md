@@ -220,3 +220,18 @@
       * Card-Sorting
       * Personas
       * User Stories und Story Boards
+
+### B2
+#### 12.12.17 - Müller
+* Java 8 Stream API
+  * Hinführung
+    * Traditionelle forEach Schleife
+    * Interfaces und anonyme Klassen
+    * Lambdas
+    * funktionale Interfaces
+    * generische funktionale Interfaces
+  * map
+  * reduce
+  * optional
+  * collect
+  * parallelStream 
