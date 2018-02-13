@@ -235,3 +235,13 @@
   * optional
   * collect
   * parallelStream 
+
+### B2
+#### 13.02.17 - Briem
+* GUI Blooper
+  * Einführung
+  * GUI-Komponenten
+  * Navigation
+  * Textbasiert
+  * Design und Layout
+  * Interaktion
