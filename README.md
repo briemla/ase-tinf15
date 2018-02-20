@@ -246,9 +246,31 @@
   * Design und Layout
   * Interaktion
 
+### B2
+#### 20.02.18 - Briem
+* GUI Blooper
+  * Management
+  * Antwortverhalten
+
+* Gui Coding
+  * Gestaltungsrichtlinien
+  * Funktionale UI Tests
+    * Manuell
+    * Record und Replay
+    * Skriptbasiert
+    * Automatisch
+
+* Usability Evaluation
+  * Experten Review
+  * Usability Tests
+    * Vorgehen
+    * Arten
+    * Umgebung
+
 ### B4
 #### 27.02.17 - Müller
 * Rest von UX/UX
   * Dark Patterns
 * SOLID komplett
 * GRASP komplett
+
