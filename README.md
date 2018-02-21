@@ -114,3 +114,37 @@
     * Replace Conditional with Polymorphism
     * Replace Error Code with Exception
     * Replace Inheritance with Delegation
+
+#### 13.2.18 - Mueller
+* Rest von UI/UX
+  * Numerische Felder
+  * Eingabefluss
+    * Single / Multipage Wizard
+  * Anzeige
+  * Internationalisierung
+  * Dark Patterns
+* SOLID
+  * komplett
+* GRASP
+  * komplett
+
+#### 20.2.18 - Mueller
+* Namensgebung
+  * Philosophie Objektorientierung
+  * Beispiel: Primzahlen
+  * Beispiel: Logger
+  * Schnittstellen
+  * Methoden
+    * Builder-Methoden
+    * Manipulator-Methoden
+    * Methoden mit boolschem Rueckgabewert
+  * Klassen
+  * Allgemeine Prinzipien
+    * Intention Revealing
+    * Keine Verschluesselungen
+    * Keine Abkuerzungen
+    * Fehlinformationen vermeiden
+    * Kontext einbeziehen
+    * Domänsprache verwenden
+    * Aussprechbare Namen
+    * Keine coolen Namen
