@@ -245,3 +245,10 @@
   * Textbasiert
   * Design und Layout
   * Interaktion
+
+### B4
+#### 27.02.17 - Müller
+* Rest von UX/UX
+  * Dark Patterns
+* SOLID komplett
+* GRASP komplett
