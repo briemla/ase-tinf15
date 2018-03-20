@@ -274,3 +274,13 @@
 * SOLID komplett
 * GRASP komplett
 
+### B4
+#### 20.03.18 - Briem
+* GUI Blooper
+  * Einführung
+  * GUI-Komponenten
+  * Navigation
+  * Textbasiert
+  * Design und Layout
+  * Interaktion
+  * Management
