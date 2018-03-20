@@ -157,3 +157,23 @@
   * Textbasiert
   * Design und Layout
   * Interaktion
+
+#### 20.03.18 - Briem
+* GUI Blooper
+  * Management
+  * Antwortverhalten
+
+* Usability Evaluation
+  * Experten Review
+  * Usability Tests
+    * Vorgehen
+    * Arten
+    * Umgebung
+
+* Gui Coding
+  * Gestaltungsrichtlinien
+  * Funktionale UI Tests
+    * Manuell
+    * Record und Replay
+    * Skriptbasiert
+    * Automatisch
