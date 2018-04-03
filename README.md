@@ -268,11 +268,20 @@
     * Umgebung
 
 ### B4
-#### 27.02.17 - Müller
+#### 27.02.18 - Müller
 * Rest von UX/UX
   * Dark Patterns
 * SOLID komplett
 * GRASP komplett
+
+### B2
+#### 19.03.18 - Müller
+* Rest von UX/UI
+  * Benutzeroberfläche-Patterns
+  * Internationalisierung
+  * Dark Patterns
+* Namensgebung
+  * Philosophie
 
 ### B4
 #### 20.03.18 - Briem
@@ -284,3 +293,41 @@
   * Design und Layout
   * Interaktion
   * Management
+
+### B2
+#### 20.03.18 - Müller
+* Namensgebung
+  * Beispiele
+    * Primzahl
+    * Logger
+  * Interfaces
+  * Methoden
+  * Erzeuger / Konstruktor
+  * Allgemeine Regeln
+* SOLID gesamt
+* GRASP gesamt
+
+### B4
+#### 20.03.18 - Müller
+* Namensgebung komplett
+
+
+### B4
+#### 27.03.18 - Briem
+* GUI Blooper
+  * Antwortverhalten
+
+* Gui Coding
+  * Gestaltungsrichtlinien
+  * Funktionale UI Tests
+    * Manuell
+    * Record und Replay
+    * Skriptbasiert
+    * Automatisch
+
+* Usability Evaluation
+  * Experten Review
+  * Usability Tests
+    * Vorgehen
+    * Arten
+    * Umgebung
