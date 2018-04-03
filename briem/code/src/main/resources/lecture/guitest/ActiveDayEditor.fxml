@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<fx:root hgap="100.0" maxHeight="300.0" minHeight="300.0" type="GridPane" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <columnConstraints>
+      <ColumnConstraints hgrow="NEVER" minWidth="0.0" />
+      <ColumnConstraints hgrow="NEVER" minWidth="0.0" />
+      <ColumnConstraints hgrow="NEVER" minWidth="0.0" />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints minHeight="0.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="0.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="0.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="0.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="0.0" vgrow="SOMETIMES" />
+   </rowConstraints>
+   <children>
+      <CheckBox fx:id="monday" mnemonicParsing="false" text="Montag" />
+      <CheckBox fx:id="tuesday" mnemonicParsing="false" text="Dienstag" GridPane.rowIndex="1" />
+      <CheckBox fx:id="wednesday" mnemonicParsing="false" text="Mittwoch" GridPane.rowIndex="2" />
+      <CheckBox fx:id="thursday" mnemonicParsing="false" text="Donnerstag" GridPane.rowIndex="3" />
+      <CheckBox fx:id="friday" mnemonicParsing="false" text="Freitag" GridPane.rowIndex="4" />
+      <CheckBox fx:id="saturday" mnemonicParsing="false" text="Samstag" GridPane.columnIndex="1" />
+      <CheckBox fx:id="sunday" mnemonicParsing="false" text="Sonntag" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+      <CheckBox fx:id="workdays" mnemonicParsing="false" text="Werktags" GridPane.columnIndex="2" />
+      <CheckBox fx:id="weekend" mnemonicParsing="false" text="Wochenende" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+      <CheckBox fx:id="daily" mnemonicParsing="false" text="Täglich" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+   </children>
+</fx:root>
