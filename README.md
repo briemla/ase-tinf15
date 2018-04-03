@@ -310,3 +310,24 @@
 ### B4
 #### 20.03.18 - Müller
 * Namensgebung komplett
+
+
+### B4
+#### 27.03.18 - Briem
+* GUI Blooper
+  * Antwortverhalten
+
+* Gui Coding
+  * Gestaltungsrichtlinien
+  * Funktionale UI Tests
+    * Manuell
+    * Record und Replay
+    * Skriptbasiert
+    * Automatisch
+
+* Usability Evaluation
+  * Experten Review
+  * Usability Tests
+    * Vorgehen
+    * Arten
+    * Umgebung
